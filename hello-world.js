@@ -5,7 +5,7 @@ const https = require('https');
 
 var index = express();
 
-const port = 2102;
+const port = 8080;
 
 //adding middleware
 index.use(cors());
