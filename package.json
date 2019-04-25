@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "hello-world",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello-world.js"
+  },
+  "keywords": [
+    "mongo",
+    "mean"
+  ],
+  "author": "vasanth",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "cors": "latest",
+    "express": "latest"
+  }
+}
